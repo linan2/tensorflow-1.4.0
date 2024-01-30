@@ -6,9 +6,9 @@ If you need previous TensorFlow, you can directly use Python command from this d
 Running method: 
 First, adding cuda environment
 
-set -euo pipefail
-export PATH=../cuda-8.0/bin:${PATH}
-export LD_LIBRARY_PATH=../cuda-8.0/lib64:${LD_LIBRARY_PATH}
+export PATH=./cuda-8.0/bin:${PATH}
+
+export LD_LIBRARY_PATH=./cuda-8.0/lib64:${LD_LIBRARY_PATH}
 
 
 Second, running TensorFlow on Python
