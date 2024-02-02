@@ -1,6 +1,8 @@
 # tensorflow-1.4.0
 TensorFlow 1.4.0 installed version. there also have a Related cuda version 
 
+Download: [https://drive.google.com/file/d/1UG8vdhXDODttc0T1UAk5vcH2wdjV_798/view?usp=drive_link]
+
 If you need previous TensorFlow, you can directly use Python command from this director.
 
 Running method: 
